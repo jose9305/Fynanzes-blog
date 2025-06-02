@@ -1,0 +1,2 @@
+# Fynanzes-blog
+Learning blog 
